@@ -46,7 +46,6 @@ Tableau Desktop (Version 2025.2 or later)
 The dataset file us-counties-recent.xlsx
 Installation
 Clone the repository:
-git clone https://github.com/your-username/covid19-analysis-tableau.git
 Open the Tableau workbook (Covid19_02-2023_03-2023.twb) in Tableau Desktop.
 Ensure the dataset file (us-counties-recent.xlsx) is in the specified path or update the data source connection in Tableau.
 Project Structure
@@ -56,9 +55,6 @@ covid19-analysis-tableau/
 └── README.md                     # Project Documentation
 Contributions
 Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 For questions or feedback, please contact:
